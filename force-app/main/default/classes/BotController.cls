@@ -1,4 +1,4 @@
-public with class BotController {
+public class BotController {
 
     class HandlerMapping {
         
